@@ -1,0 +1,26 @@
+.DS_Store
+**/.DS_Store
+
+# IDE - IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# IDE - VS Code
+.vscode/
+
+# Maven build output
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Logs
+*.log
